@@ -3,7 +3,7 @@
 Para iniciar proyecto ```npm install```
 
 ## Puerto seleccionado para desplegar
-[8082](http://localhost:8082/)
+http://localhost:8082/
 
 ## Uso plantilas hbs y parciales 
 Se utilizar motor plantillas hbs
